@@ -1,0 +1,7 @@
+https://api.bscscan.com/api
+   ?module=account
+   &action=tokenbalance
+   &contractaddress=0xe9e7cea3dedca5984780bafc599bd69add087d56
+   &address=0x2AD27Cd93aEB836eD7f84CCA141A66F2718FD6EA
+   &tag=latest
+   &apikey=SQUUVY5XM964B8SJ6BMMU2KAVUKAT3FCWG
